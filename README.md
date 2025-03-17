@@ -32,8 +32,6 @@ Este projeto é uma API RESTful que simula um sistema simplificado de pagamentos
 ## 📦 Tecnologias Utilizadas
 - **Python 3.10+**
 - **Django 4.x**
-- **Django REST Framework**
-- **Docker e Docker Compose**
 - **SQLite / PostgreSQL** (Escolha de acordo com o ambiente)
 - **Requests (para chamadas externas)**
 
